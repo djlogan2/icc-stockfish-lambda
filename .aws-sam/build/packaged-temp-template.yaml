@@ -1,0 +1,9 @@
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Timeout: 300
+      MemorySize: 128
+      Handler: app.lambdaHandler
+      CodeUri: s3://icc-stockfish/1eff58ceea001c608280bd73b5622efa
+      Runtime: nodejs12.x

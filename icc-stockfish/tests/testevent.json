@@ -1,0 +1,10 @@
+{
+  "options": { "UCI_LimitStrength": true, "UCI_Elo": 2500 },
+  "position": "4k3/2pppp2/8/PPPPPPPP/PPPPPPPP/RRRRRRRR/QQQQQQQQ/QQQQKQQQ b - - 0 1",
+  "gooptions": {
+    "wtime": 225,
+    "btime": 225,
+    "winc": 0,
+    "binc": 0
+  }
+}

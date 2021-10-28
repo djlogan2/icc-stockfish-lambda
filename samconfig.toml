@@ -1,0 +1,9 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "icc-stockfish"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1idptw7xnc5mh"
+s3_prefix = "icc-stockfish"
+region = "us-west-1"
+capabilities = "CAPABILITY_IAM"
